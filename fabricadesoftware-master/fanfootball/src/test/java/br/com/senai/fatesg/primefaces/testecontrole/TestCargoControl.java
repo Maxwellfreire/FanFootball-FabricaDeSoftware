@@ -12,7 +12,7 @@ public class TestCargoControl extends TestCase {
 	protected void setUp() throws Exception {
 		super.setUp();
 		car = new CargoControl();
-		car.getCargo().setId(5);
+		car.getCargo().setId(5);  
 		
 	}
 
